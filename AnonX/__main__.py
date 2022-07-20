@@ -63,10 +63,10 @@ async def init():
     except:
         pass
     await Anon.decorators()
-    LOGGER("AnonX").info("Music Bot Started Successfully, Now Gib your girlfriend chumt to @anonymous_was_bot")
+    LOGGER("AnonX").info("Music Bot Started Successfully, Now Gib your girlfriend chumt to @ITS_DRAGON_BOY")
     await idle()
 
 
 if __name__ == "__main__":
     loop.run_until_complete(init())
-    LOGGER("AnonX").info("Stopping Music Bot, Bhakk Bhosdike (Gaand Maraa Tu)")
+    LOGGER("DRAGON_MUSIC").info("Stopping Music Bot, Bhakk Bhosdike (Gaand Maraa Tu)")
